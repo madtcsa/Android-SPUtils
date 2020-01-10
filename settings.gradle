@@ -1,0 +1,3 @@
+include ':SPUtils'
+include ':app'
+rootProject.name = "SPUtils"
